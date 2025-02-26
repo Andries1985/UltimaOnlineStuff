@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfa79afc-a78e-4874-b86a-de60800b4f33" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/UltimaOnlineStuff.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextureGenerator/00_BATCH_images_rotate_to_ART_M.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextureGenerator/00_BATCH_images_rotate_to_ART_M.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextureGenerator/ALPHA/00_LAND_ART_M_ALPHA.bmp" afterDir="false" />
+    <list default="true" id="dfa79afc-a78e-4874-b86a-de60800b4f33" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/Macro_scripts/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_S/.gitkeep" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +17,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Andries1985/UltimaOnlineStuff.git",
+    "accountId": "934f9502-eb19-46cc-926e-1ecd0eb5f541"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -67,8 +67,17 @@
       <updated>1740606182852</updated>
       <workItem from="1740606187580" duration="216000" />
       <workItem from="1740606410466" duration="131000" />
-      <workItem from="1740606545788" duration="1061000" />
+      <workItem from="1740606545788" duration="1444000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1740607798038</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740607798038</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,5 +85,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
