@@ -4,27 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfa79afc-a78e-4874-b86a-de60800b4f33" name="Changes" comment=".gitkeep added" />
+    <list default="true" id="dfa79afc-a78e-4874-b86a-de60800b4f33" name="Changes" comment=".gitkeep added">
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/00_png_to_BMP3.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TextureGenerator/00_BATCH_images_rotate_to_ART_M.bat" beforeDir="false" afterPath="$PROJECT_DIR$/TextureGenerator/00_BATCH_images_rotate_to_ART_M.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TextureGenerator/ART_M/.gitkeep" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Andries1985"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Andries1985&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Andries1985/UltimaOnlineStuff.git",
-    "accountId": "934f9502-eb19-46cc-926e-1ecd0eb5f541"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Andries1985/UltimaOnlineStuff.git&quot;,
+    &quot;accountId&quot;: &quot;934f9502-eb19-46cc-926e-1ecd0eb5f541&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -39,16 +51,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.00_BATCH_images_rotate_to_ART_M.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/GIT/UltimaOnlineStuff/TextureGenerator/ALPHA/cc.py",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Python",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "two.files.diff.last.used.file": "D:/GIT/UltimaOnlineStuff/TextureGenerator/ALPHA/cc.py",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -70,6 +90,7 @@
       <workItem from="1740606187580" duration="216000" />
       <workItem from="1740606410466" duration="131000" />
       <workItem from="1740606545788" duration="1496000" />
+      <workItem from="1740685221645" duration="1996000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -98,5 +119,8 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value=".gitkeep added" />
     <option name="LAST_COMMIT_MESSAGE" value=".gitkeep added" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/UltimaOnlineStuff$00_BATCH_images_rotate_to_ART_M.coverage" NAME="00_BATCH_images_rotate_to_ART_M Coverage Results" MODIFIED="1740685517957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TextureGenerator" />
   </component>
 </project>
