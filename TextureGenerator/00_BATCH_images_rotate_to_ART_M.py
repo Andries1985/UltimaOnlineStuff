@@ -160,7 +160,7 @@ def tex_to_art_m(target_directory):
 
         # SAVE IMAGE ===============================
         print("SAVING >>>   " + str(infile))
-        png_filename = re.sub('.bmp', '.png', str(infile), );
+        png_filename = re.sub('.bmp', '.png', str(infile), )
 
         # image_current.save(png_filename)
         image_final_output = Image.new("RGB", final_size, (0, 0, 0))

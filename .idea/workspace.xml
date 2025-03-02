@@ -4,11 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfa79afc-a78e-4874-b86a-de60800b4f33" name="Changes" comment=".gitkeep added">
-      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/00_png_to_BMP3.bat" afterDir="false" />
+    <list default="true" id="dfa79afc-a78e-4874-b86a-de60800b4f33" name="Changes" comment="Minor changes to bat file env var. Added png to bmp3. Need magick as a dependency.">
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/0x10.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/0x13.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/0x14.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/0x16.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/0x18.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/0xB.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/0xC.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/0xD.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/0xE.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/0xF.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/0x10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/0x11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/0x12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/0x13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/0x14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/0x15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/0x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/0x17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/0x18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/0x9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/0xA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/0xB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/0xC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/0xD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/0xE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/0xF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/farmgrass/0x10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/farmgrass/0x11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/farmgrass/0x12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/farmgrass/0x13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/farmgrass/0x14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/farmgrass/0x15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/farmgrass/0x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/farmgrass/0x17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/farmgrass/0x18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/farmgrass/0x9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/farmgrass/0xA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/farmgrass/0xB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/farmgrass/0xC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/farmgrass/0xD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/farmgrass/0xE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextureGenerator/ART_M/farmgrass/0xF.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextureGenerator/00_BATCH_images_rotate_to_ART_M.bat" beforeDir="false" afterPath="$PROJECT_DIR$/TextureGenerator/00_BATCH_images_rotate_to_ART_M.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextureGenerator/ART_M/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TextureGenerator/00_BATCH_images_rotate_to_ART_M.py" beforeDir="false" afterPath="$PROJECT_DIR$/TextureGenerator/00_BATCH_images_rotate_to_ART_M.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,29 +88,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.00_BATCH_images_rotate_to_ART_M.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/GIT/UltimaOnlineStuff/TextureGenerator/ALPHA/cc.py",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "two.files.diff.last.used.file": "D:/GIT/UltimaOnlineStuff/TextureGenerator/ALPHA/cc.py",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.00_BATCH_images_rotate_to_ART_M.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/GIT/UltimaOnlineStuff/TextureGenerator/ALPHA/cc.py&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;D:/GIT/UltimaOnlineStuff/TextureGenerator/ALPHA/cc.py&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Python"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -90,7 +130,8 @@
       <workItem from="1740606187580" duration="216000" />
       <workItem from="1740606410466" duration="131000" />
       <workItem from="1740606545788" duration="1496000" />
-      <workItem from="1740685221645" duration="1996000" />
+      <workItem from="1740685221645" duration="2797000" />
+      <workItem from="1740837096088" duration="73000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -108,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740608021143</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Minor changes to bat file env var. Added png to bmp3. Need magick as a dependency.">
+      <option name="closed" value="true" />
+      <created>1740687277012</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740687277012</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,7 +167,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial Commit" />
     <MESSAGE value=".gitkeep added" />
-    <option name="LAST_COMMIT_MESSAGE" value=".gitkeep added" />
+    <MESSAGE value="Minor changes to bat file env var. Added png to bmp3. Need magick as a dependency." />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor changes to bat file env var. Added png to bmp3. Need magick as a dependency." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UltimaOnlineStuff$00_BATCH_images_rotate_to_ART_M.coverage" NAME="00_BATCH_images_rotate_to_ART_M Coverage Results" MODIFIED="1740685517957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TextureGenerator" />
